@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">WhatsApp Wihtout Saving Contact</string>
+    <string name="open_what_s_app" translatable="false">Open WhatsApp</string>
+    <string name="coded_and_developed_by_yashjariwala">Coded and Developed By @yashjariwala</string>
+    <string name="phone_number_acc_label">Phone Number</string>
+    <string name="Contrycodeinstructions">Add Mobile Number with country code prefix!</string>
+    <string name="example">Eg-91XXXXXXXXX</string>
+</resources>
